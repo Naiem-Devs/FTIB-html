@@ -1,0 +1,2082 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .home_slider .owl-dots {
+        right: 0;
+    }
+
+    .descar {
+        background-position: center;
+    }
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .menu-area nav ul li a {
+        margin-left: 20px;
+    }
+
+    .header-area:after {
+        width: 65%;
+    }
+
+    .pim_nav ul li:last-child a {
+        margin-right: 0;
+    }
+
+    .n_tiva_left p {
+        width: 650px;
+    }
+    .estamos_wrap2 hr {
+        margin: 40px 0;
+    }
+
+    /*================================
+              Home  Page Css Start 
+=================================== */
+    .home_slider .owl-dots {
+        right: auto;
+        top: 825px;
+        left: 46%;
+        display: flex;
+        align-items: center;
+    }
+
+    .home_slider .owl-dot {
+        margin: 0 4px;
+    }
+
+    .left_bdr_af:after {
+        left: -25%;
+    }
+
+    .federate_btm {
+        max-width: 75%;
+    }
+
+    .te_fo_blk {
+        height: 600px;
+        padding-left: 16%;
+    }
+
+    .descar {
+        background-position: center;
+    }
+
+    /*================================
+            Home   page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             Ranking   Page Css Start 
+=================================== */
+    .jugador_top_form {
+        width: 100%;
+    }
+
+    section.rnkball {
+        height: 400px;
+    }
+
+    .pim_nav {
+        margin-left: 0;
+    }
+
+    .documenta_nav {
+        /* margin-top: 15px; */
+        margin-left: -135px;
+    }
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+}
+
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-area {
+        padding: 25px 0;
+    }
+
+    .logo-area a {
+        margin-top: -7px;
+        margin-bottom: 0px;
+    }
+
+    .header-area .row.align-items-end {
+        align-items: center !IMPORTANT;
+    }
+
+    .header-area:after {
+        content: "";
+        position: absolute;
+        width: 115px;
+        height: 100%;
+        top: 0;
+        right: 0;
+        background: #f5a000;
+        z-index: -1;
+    }
+    .cld_exmple h6 {
+        margin: 10px 0;
+    }
+    
+    .cld_exmple a i.fa-times-circle {
+        font-size: 25px;
+    }
+    .mt_100 {
+        margin-top: 70px;
+    }
+
+    .mb_100 {
+        margin-bottom: 70px;
+    }
+
+    .mt_50 {
+        margin-top: 30px;
+    }
+
+    .mb_50 {
+        margin-bottom: 30px;
+    }
+
+    .pt_100 {
+        padding-top: 70px;
+    }
+
+    .pb_100 {
+        padding-bottom: 70px;
+    }
+
+    .pt_50 {
+        padding-top: 30px;
+    }
+
+    .pb_50 {
+        padding-bottom: 30px;
+    }
+    .estamos_wrap2 {
+        margin-top: 40px;
+        padding-bottom: 15px;
+    }
+    /*================================
+              Home  Page Css Start 
+=================================== */
+    .title h2 {
+        font-size: 40px;
+    }
+
+    .title h3 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .h_slider_wrap {
+        height: 600px;
+    }
+
+    .home_slider .owl-dots {
+        right: auto;
+        top: 625px;
+        left: 46%;
+        display: flex;
+        align-items: center;
+    }
+
+    .home_slider .owl-dot {
+        margin: 0 4px;
+    }
+
+    .left_bdr_af:after {
+        left: -25%;
+    }
+
+    .federate_btm {
+        max-width: 100%;
+    }
+
+    .noticias_blk_lest {
+        margin-top: 60px;
+    }
+
+    .federate_blk {
+        max-width: 300px;
+    }
+
+    .federate_wrap {
+        flex-wrap: wrap;
+    }
+
+    .federate_blk.left_bdr_af:after {
+        display: none;
+    }
+
+    .te_fo_blk {
+        height: 500px;
+        padding-left: 16%;
+        padding-top: 50px;
+    }
+
+    .cmpt_blk {
+        margin-bottom: 20px;
+    }
+
+    .descar {
+        background-position: center;
+    }
+
+    .Busq_blk h3 {
+        max-width: 200px;
+        font-size: 30px;
+    }
+
+    .branding_wrap {
+        flex-wrap: wrap;
+    }
+
+    .branding_wrap.pb_50 img {
+        margin: 0 22px 40px;
+    }
+
+    .branding_wrap.pb_50 {
+        margin-bottom: -20px;
+    }
+
+    .gallery_wrap img {
+        width: max-content;
+        margin: 0 5px;
+    }
+
+    .gallery_wrap {
+        overflow: auto;
+        padding-left: 10px;
+    }
+
+    /*================================
+            Home   page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             Federate   Page Css Start 
+=================================== */
+    .fede_aqui hr.bdr {
+        width: 100%;
+    }
+
+    .aqio_rund {
+        font-size: 20px;
+    }
+
+    .porque_wrap {
+        width: 100%;
+    }
+
+    /*================================
+             Federate  page Css End ==========================================
+=================================== */
+
+
+    /*================================
+             Ranking   Page Css Start 
+=================================== */
+    .jugador_top_form {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    section.rnkball {
+        height: 280px;
+    }
+
+    .pim_nav {
+        margin-left: 0;
+    }
+
+    .rnk_last_left {
+        background-position: 32%;
+    }
+
+    .pim_title h2 {
+        margin-bottom: 20px;
+    }
+
+    .documenta_nav {
+        width: 100%;
+    }
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+
+    /*================================
+            actualidad    Page Css Start 
+=================================== */
+    .HEMEROTECa {
+        border: none;
+        margin-top: 50px;
+        padding-bottom: 100px;
+        padding-left: 0;
+    }
+
+    .HEMEROTECa ul {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 2px solid var(--thmColor);
+        padding-bottom: 20px;
+    }
+
+    .HEMEROTECa ul li p {
+        font-size: 16px;
+    }
+
+    .HEMEROTECa ul li {
+        border: none;
+    }
+
+    .HEMEROTECa hr {
+        display: none;
+    }
+
+    .hm_img_wrap {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 40px;
+    }
+
+    .hm_img_blk {
+        width: max-content;
+        text-align: center;
+    }
+
+    .hm_img_blk h5 {
+        width: 269px;
+    }
+
+    .HEMEROTECa .arw_blk {
+        float: right;
+        margin-top: 30px;
+    }
+
+    .nt_todas {
+        transform: translateY(-100px);
+    }
+
+    section.Noticias_Todas {
+        margin-bottom: 0;
+    }
+
+
+    /*================================
+             actualidad  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+    .n_tiva_left p {
+        width: 425px;
+    }
+
+    .n_tiva_left span {
+        margin-right: 55px;
+    }
+
+    .n_tiva_left b {
+        margin-right: 87px;
+    }
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             competiciones   Page Css Start 
+=================================== */
+    .compt_table table tbody tr td:first-child {
+        min-width: 120px;
+    }
+
+    .compt_table table tbody tr td {
+        padding-left: 7px;
+        vertical-align: initial;
+    }
+
+    .compt_table table tbody tr td:nth-child(4) {
+        min-width: 85px;
+    }
+
+    .compt_table table tbody tr td:nth-child(6) {
+        width: 200px;
+    }
+
+    .compt_table table thead tr th {
+        padding-left: 0;
+    }
+
+    .cpt_hide_item h5 span {
+        padding-right: 20px;
+    }
+
+    .carrar_icon a {
+        margin-right: 10px;
+    }
+
+    .comt_dest_wrap table tbody tr td:first-child {
+        width: 220px;
+    }
+
+    .competici_list_wrap ul {
+        overflow: auto;
+        width: max-content;
+    }
+.competici_list_wrap {
+    overflow: auto;
+}
+.competici_list_wrap::-webkit-scrollbar{
+        display:none
+    }
+    .competici_list_wrap ul li a {
+        width: max-content;
+        margin: 0 15px;
+    }
+
+    .rnk_jugador_top.cpt_otn h5 {
+        margin-bottom: 0;
+    }
+
+    h5.tipo {
+        margin-bottom: 18px !important;
+    }
+
+    .comt_destacadas {
+        background-position-x: 73%;
+    }
+
+    .jugador_top_form.calen_top_form a {
+        margin-top: 30px;
+    }
+
+    .calen_top_wrap {
+        height: 70px;
+    }
+.calen_top_wrap a.porque_link {
+    width: 69px;
+    margin-right: 50px;
+}
+    /*================================
+            competiciones   page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+              Delegaciones  Page Css Start 
+=================================== */
+    .Delegaciones_top_blk h1 a {
+        font-size: 35px;
+        margin-top: 59px;
+    }
+
+    .Delegaciones_top_blk {
+        height: 250px;
+    }
+
+    /*================================
+             Delegaciones  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Page Css Start 
+=================================== */
+
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Footer Css Start 
+=================================== */
+    .footer_mid {
+        flex-wrap: wrap;
+    }
+
+    .footer_mid ul {
+        width: 200px;
+        margin-bottom: 30px;
+    }
+
+    .ft_last_cont {
+        margin-right: 30px;
+    }
+
+    /*================================
+               Footer Css End ==========================================
+=================================== */
+
+
+
+
+
+
+
+
+}
+
+
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .header-area {
+        padding: 20px 0;
+    }
+
+    .logo-area a {
+        margin-top: -7px;
+        margin-bottom: 0px;
+    }
+
+    .header-area .row.align-items-end {
+        align-items: center !IMPORTANT;
+    }
+
+    .header-area:after {
+        content: "";
+        position: absolute;
+        width: 130px;
+        height: 100%;
+        top: 0;
+        right: 0;
+        background: #f5a000;
+        z-index: -1;
+    }
+
+
+
+    .mt_100 {
+        margin-top: 70px;
+    }
+
+    .mb_100 {
+        margin-bottom: 60px;
+    }
+
+    .mt_50 {
+        margin-top: 30px;
+    }
+
+    .mb_50 {
+        margin-bottom: 30px;
+    }
+
+    .pt_100 {
+        padding-top: 70px;
+    }
+
+    .pb_100 {
+        padding-bottom: 70px;
+    }
+
+    .pt_50 {
+        padding-top: 30px;
+    }
+
+    .pb_50 {
+        padding-bottom: 30px;
+    }
+
+    .dmd_none {
+        display: none !important;
+    }
+
+    .dmd_show {
+        display: block;
+    }
+    .estamos_wrap2 {
+        margin-top: 40px;
+        padding-bottom: 15px;
+    }
+    /*================================
+              Home  Page Css Start 
+=================================== */
+    .hero_home .container {
+        margin: auto;
+    }
+    button.btn.fff i {
+        margin-left: -23px;
+        font-size: 18px;
+    }
+    .h_sider_cont {
+        max-width: 400px;
+        left: 43%;
+        transform: translateX(-50%);
+    }
+    .hero_home {
+    margin-top: -24px;
+}
+    .h_slider_wrap h1 {
+        font-size: 45px;
+    }
+
+    .title {
+        margin-bottom: 25px;
+    }
+
+    .title h2 {
+        font-size: 40px;
+    }
+
+    .title h3 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .h_slider_wrap {
+        height: 650px;
+    }
+
+    .home_slider .owl-dots {
+        right: 30%;
+        top: 676px;
+        /* left: 43%; */
+        display: flex;
+        align-items: center;
+    }
+
+    .home_slider .owl-dot {
+        margin: 0 7px;
+    }
+
+    .left_bdr_af:after {
+        left: -25%;
+    }
+
+    .federate_btm {
+        max-width: 100%;
+    }
+
+    .noticias {
+        padding: 75px 0 0;
+    }
+
+    .noticias_blk small {
+        margin: 20px 0 15px;
+    }
+
+    .noticias_blk_lest {
+        margin-top: 60px;
+    }
+
+    .ddqwe {
+        overflow: auto;
+        flex-wrap: unset;
+        padding-bottom: 30px;
+        /* position: relative; */
+        /* z-index: 0; */
+        /* padding-left: 20px; */
+    }
+
+    .ddqwe::-webkit-scrollbar {
+        width: 10px;
+        height: 4px;
+    }
+    section.noticias.mb_100 .arw_blk {
+    display: none;
+}
+
+    .ddqwe::-webkit-scrollbar-track {
+        background: #b5b5b5;
+        padding: 0 50px;
+    }
+
+    /* Handle */
+    .ddqwe::-webkit-scrollbar-thumb {
+        background: var(--thmColor);
+    }
+
+    /* Handle on hover */
+    .ddqwe::-webkit-scrollbar-thumb:hover {
+        background: rgb(0, 79, 197);
+    }
+
+    .nt_blk_poti {
+        position: relative;
+        width: 420px;
+        margin: auto;
+    }
+
+    .nt_blk_poti::after {
+        content: "";
+        position: absolute;
+        bottom: -4px;
+        right: 0;
+        width: 20px;
+        height: 15px;
+        background: #ffffff;
+    }
+
+    .nt_blk_poti::before {
+        content: "";
+        position: absolute;
+        bottom: -5px;
+        left: 0px;
+        width: 20px;
+        height: 15px;
+        background: #ffffff;
+        z-index: 9;
+    }
+
+    .noticias_blk {
+        max-width: 375px;
+        margin: auto;
+    }
+
+    .federate {
+        margin-bottom: 10px;
+    }
+    
+    .porque_wrap a {
+        width: 120px;
+    }
+    .federate_blk {
+        min-width: 300px;
+        border-bottom: 1px solid #fff;
+    }
+    .aqui_input7 a {
+        width: 115px;
+    }
+    .federate_wrap {
+        flex-wrap: wrap;
+    }
+
+    .arw_blk.mt_100 {
+        margin-top: 35px !important;
+    }
+
+    .federate_blk p {
+        max-width: 175px;
+    }
+
+    .federate_blk.left_bdr_af:after {
+        display: none;
+    }
+
+    .te_fo_blk {
+        height: max-content;
+        padding: 50px 20px 60px;
+        margin-bottom: 10px;
+    }
+
+    .arw_blk a {
+        max-width: 140px;
+        font-size: 16px;
+    }
+
+    .arw_blk a i {
+        margin-left: 10px;
+        font-size: 20px;
+    }
+
+    .compet_slider .owl-nav {
+        display: flex;
+        justify-content: space-between;
+        max-width: 350px;
+        margin: auto;
+        position: relative;
+        margin-top: 20px;
+    }
+
+    .compet_slider .owl-nav i {
+        font-size: 38px;
+        font-weight: 500;
+        color: #b3b3b3;
+    }
+
+    .compet_sl_blk {
+        padding-top: 10px;
+    }
+
+    .compet_slider .owl-nav:after {
+        content: "calendario completo";
+        position: absolute;
+        bottom: 6px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 18px;
+        text-transform: uppercase;
+        width: max-content;
+        font-family: 'BalooBhai-Regular';
+    }
+
+    .cmpt_blk {
+        padding: 30px;
+        margin: auto;
+        margin-bottom: 20px;
+        box-shadow: 1px 2px 8px #00000026;
+    }
+
+    .compet_slider.desktop_none.dmd_show.owl-carousel.owl-loaded.owl-drag {
+        display: block;
+    }
+    p.g_ins {
+    width: 390px;
+    margin: auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+    .descar {
+        padding-bottom: 200px;
+        background-position-x: 60%;
+    }
+
+    .Busq_blk h3 {
+        max-width: unset;
+        font-size: 30px;
+        margin: 10px 0 10px;
+    }
+    .app_store{
+    margin-top: 30px;
+    margin-left: 0;
+}
+    .Busq_blk {
+        margin-top: 30px;
+    }
+
+    .branding_wrap {
+        flex-wrap: wrap;
+    }
+
+    .gallery_wrap img {
+        width: max-content;
+        margin: 0 10px;
+    }
+
+    .branding_wrap.pb_50 img {
+        margin: 0 22px 40px;
+    }
+
+    .gallery_wrap {
+        overflow: auto;
+    }
+
+    .branding_wrap.pb_50 {
+        margin-bottom: -20px;
+    }
+
+    .title.d-flex.align-items-center {
+        flex-wrap: wrap;
+    }
+
+    .branding {
+        padding-top: 0;
+    }
+
+    .Busq-wrap {
+        flex-wrap: wrap;
+    }
+
+    .sub_title {
+        margin-left: 0;
+        flex-wrap: wrap;
+    }
+
+    /*================================
+            Home   page Css End ==========================================
+=================================== */
+
+
+    /*================================
+             Federate   Page Css Start 
+=================================== */
+    .fede_aqui hr.bdr {
+        width: 100%;
+    }
+
+    .aqio_rund {
+        font-size: 18px;
+    }
+
+    .porque_wrap {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .aqui_input {
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+
+    .aqui_input input {
+        width: 100%;
+        margin-left: 0;
+        padding-bottom: 10px;
+    }
+
+    label.aqio_rund.aqio_rund2 {
+        margin-left: 0;
+    }
+
+    .ayuda {
+        padding: 50px 0;
+        background-position-x: -80%;
+    }
+
+    .page_title {
+        padding: 25px 0;
+    }
+
+    .page_title h2 {
+        font-size: 40px;
+        margin-left: 15px;
+    }
+
+
+    .porque_row_2 {
+        flex-direction: column-reverse;
+    }
+
+    .aqui_rdo_blk {
+        margin-bottom: 16px;
+        width: 100%;
+    }
+
+    .aqui_select .nice-select {
+        font-size: 18px;
+        /* margin: auto; */
+        float: unset;
+        width: max-content;
+        margin-left: 30px;
+    }
+
+    /*================================
+             Federate  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             Ranking   Page Css Start 
+=================================== */
+    .jugador_top_form {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+.rnk_jugador_top {}
+    section.rnkball {
+        background-position: center;
+        height: 241px;
+    }
+    .rnk_last_left h1 i {
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.rnk_last_left h1 .ahh_clr:hover i:before {
+    font-size: 25px;
+}
+    .pim_nav {
+        margin-left: -15px;
+    }
+
+    .rnk_last_left {
+        background-position-x: 23%;
+        padding: 50px 0 0 13%;
+        height: 290px;
+    }
+
+    .pim_title h2 {
+        margin-bottom: 20px;
+    }
+
+    .documenta_nav {
+        width: 100%;
+        width: unset;
+    }
+
+    .pim_nav.documenta_nav ul li {
+        width: 190px;
+    }
+
+    .rnk_jugador_top h5 {
+        margin-bottom: 6px;
+    }
+
+    .jugador_top_form input {
+        margin-bottom: 15px;
+        background: no-repeat;
+    }
+
+    .rnk_ctgry_blk {
+        height: 103px;
+    }
+
+    .rnk_li_show {
+        height: 490px !important;
+    }
+
+    .ctgry_cont_link {
+        display: flex;
+        flex-direction: column;
+    }
+.rnk_ctgry_cont h5 span{
+    margin-left: 10px;
+    font-size: 20px;
+}
+    /*================================
+               page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+            actualidad    Page Css Start 
+=================================== */
+    .pim_nav ul li a {
+        margin: 0 15px 15px;
+        position: relative;
+        width: max-content;
+    }
+
+    .pim_nav ul li a:after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: -30px;
+        width: 1px;
+        height: 20px;
+        background: #fff;
+    }
+
+    .pim_nav ul li {
+        width: 150px;
+    }
+
+    .pim_title h2 {
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+
+    .act_title {
+        font-size: 33px;
+    }
+
+    .noticias_blk h2 {
+        font-size: 25px;
+    }
+
+    .actual_wrap2 h2 {
+        font-size: 23px;
+    }
+
+    .HEMEROTECa {
+        border: none;
+        margin-top: 50px;
+        padding-bottom: 60px;
+        padding-left: 0;
+    }
+
+    .hem_hed {
+        font-size: 27px;
+    }
+
+    .HEMEROTECa ul {
+        display: flex;
+        justify-content: space-between;
+        /* border-bottom: 2px solid var(--thmColor); */
+        padding-bottom: 20px;
+        flex-wrap: wrap;
+    }
+
+    .HEMEROTECa ul li p {
+        font-size: 16px;
+        max-width: 185px;
+    }
+
+    .HEMEROTECa hr {
+        display: none;
+    }
+
+    .hm_img_wrap {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .hm_img_blk {
+        width: 200px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .hm_img_blk h5 {
+        width: 215px;
+        text-align: left;
+        padding-left: 20px;
+    }
+
+    .HEMEROTECa .arw_blk {
+        float: right;
+        margin-top: 0;
+    }
+
+    .act_video_blk p {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+    .act_video_blk {
+        margin-bottom: 30px;
+    }
+
+    a.act_blog_blk_left {
+        margin-bottom: 40px;
+    }
+
+    .act_blog_blk h2 {
+        margin-top: 30px;
+        font-size: 30px;
+    }
+
+    .act_blog_blk span {
+        margin-bottom: 20px;
+    }
+
+    .act_blg .noticias_blk p {
+        margin-top: 20px;
+        margin-bottom: 13px;
+    }
+
+    .Noticias_Todas .noticias_blk {
+        margin-bottom: 45px;
+    }
+
+    .Noticias_Todas .actual_wrap2 h2 {
+        font-size: 25px;
+    }
+
+    .Noticias_Todas .noticias_blk p {
+        margin: 10px 0;
+    }
+
+    .nt_todas {
+        transform: translateY(0px);
+    }
+
+    .Noticias_Todas .actual_wrap2 {
+        max-width: 300px;
+    }
+
+    .fr_notblk {
+        float: right;
+    }
+
+    /*================================
+            actualidad   page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             Normativa   Page Css Start 
+=================================== */
+    .n_tiva_left {
+        flex-direction: column;
+        font-size: 16px;
+    }
+
+    .ntiva_right {
+        margin-top: 30px;
+        margin-left: auto;
+    }
+
+    li.ntva_li {
+        flex-direction: column;
+    }
+
+    .n_tiva_left span {
+        margin-bottom: 10px;
+    }
+
+    .n_tiva_left p {
+        font-size: 16px;
+    }
+
+    .ntiva_nevigiton a {
+        font-size: 16px;
+        margin: 0 5px;
+    }
+
+    .n_tiva_left b {
+        font-size: 16px;
+        margin-right: 50px;
+    }
+
+    .ntivain1 {
+        margin: 20px 0;
+        width: 220px;
+    }
+
+    .ntva_li1 .n_tiva_left {
+        flex-direction: unset !important;
+    }
+
+    /*================================
+             Normativa  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             competiciones   Page Css Start 
+=================================== */
+    .competici_list_wrap ul {
+        overflow: auto;
+        width: max-content;
+        margin: auto;
+    }
+
+    .competici_list_wrap ul li a {
+        width: max-content;
+        margin: 0 25px;
+    }
+    .compt_table {max-width: 400px;margin: auto;}
+    .competici_list_wrap ul::-webkit-scrollbar{
+        display:none
+    }
+
+    .rnk_jugador_top.cpt_otn h5 {
+        margin-bottom: 0;
+    }
+
+    .competici_tipo_top_left .nice-select {
+        margin-right: 20px;
+    }
+
+    .competici_tipo_top_left .nice-select:after {
+        right: 8px;
+    }
+    .nice-select.tipo_3 {
+    margin-right: 0;
+}
+    .tipo_3 ul {
+        right: 0;
+        left: auto !important;
+        width: max-content;
+    }
+
+    .competici_tipo_top_left {
+        flex-wrap: wrap;
+    }
+
+    .compt_table table tbody tr td:last-child {
+        width: unset;
+        color: grey;
+        font-family: 'Fira Sans';
+    }
+
+    .compt_table table tbody tr td:first-child {
+        min-width: max-content;
+    }
+
+    section.competici_tipo.mb_100 {
+        overflow: hidden;
+        padding: 0 40px;
+    }
+
+    .compt_table table tbody tr td a {
+        color: var(--thmColor);
+        font-family: 'BalooBhai-Regular';
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        width: 65px;
+        justify-content: space-between;
+        font-size: 14px;
+    }
+    .mb_cllaps {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mb_cllaps h5 {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 15px 0 0px;
+    border-bottom: 2px solid #dcdcdc;
+    color: grey;
+    font-weight: 400;
+    font-family: 'Fira Sans';
+    max-width: 185px;
+    border: none;
+    margin-bottom: 0;
+}
+.compt_table table thead tr th:first-child {
+    width: 190px;
+}
+.mb_cllaps_cont{
+    flex-direction: column;
+    background: #eeeeee;
+    padding: 25px;
+    display: flex;
+}
+.mb_cllaps_cont a.web_ins svg{
+    top: 13px;
+}
+.compt_table_clps .accordion-item h2{
+    margin: 10px 0;
+}
+.mb_cllaps_cont h5 span{
+    display: block;
+    text-align: left;
+    font-family: 'Fira Sans';
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: capitalize;
+    max-width: 300px;
+}
+.mb_cllaps_cont h5{
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #808080;
+    font-family: 'Fira Sans';
+}
+.mb_cllaps_cont .m_tbl_item h6 p{}
+.mb_cllaps_cont .m_tbl_item h6{
+    margin-bottom: 0;
+}
+.mb_cllaps h5 button {
+    color: var(--thmColor);
+    font-family: 'BalooBhai-Regular';
+    display: flex;
+    align-items: center;
+    width: 65px;
+    justify-content: space-between;
+    font-size: 14px;
+    text-transform: capitalize;
+    border: none;
+}
+.mb_cllaps h5 button:after{
+    background: none;
+    /* content: "\f107"; */
+    width: 7px;
+    height: 7px;
+    border-left: 1px solid var(--thmColor);
+    border-top: 1px solid var(--thmColor);
+    transform: rotate(-135deg);
+    position: absolute;
+    right: 0;
+    top: 18px;
+}
+.mb_cllaps p {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 15px 0;
+    border: 1px solid #dcdcdc;
+    border-bottom: 2px solid #dcdcdc;
+    padding-left: 12px;
+    color: grey;
+    font-weight: 400;
+    font-family: 'Fira Sans';
+    border: none;
+}
+
+.mb_cllaps span {
+    margin-left: 40px;
+}
+
+.compt_table_clps .accordion-item {
+    border-bottom: 1px solid;
+}
+    .com_mtbl {
+        width: 100%;
+        margin: auto;
+    }
+
+    .compt_table table tbody tr td:nth-child(2) {
+        width: unset;
+    }
+
+    .compt_table table tbody tr td {
+        font-size: 16px;
+        vertical-align: baseline;
+        border-right: none;
+        border-left: none;
+    }
+
+    .cpt_hide_item {
+        height: 600px;
+        flex-direction: column;
+        background: #eeeeee;
+        padding: 25px;
+        border-color: #dcdcdc00;
+        border: none;
+        margin-top: 115px;
+    }
+    .cpt_hide_item_mb{height: 600px;flex-direction: column;background: #eeeeee;padding: 25px;border-color: #dcdcdc00;border: none;margin-top: 115px;}
+
+    .comtr_height {
+        height: 715px;
+    }
+
+    .m_tbl_item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .m_tbl_item h6 {
+        color: #666666;
+        margin-bottom: 15px;
+    }
+
+    .m_tbl_item h6 p {
+        font-family: 'Fira Sans';
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+
+    .cpt_hide_item hr {
+        margin: 0px 0 15px;
+    }
+
+    a.web_ins {
+        font-size: 16px !important;
+        width: 88px !important;
+        justify-content: space-between;
+        display: flex;
+        line-height: 25px;
+    }
+
+    .cpt_hide_item h5 hr {
+        margin: 25px 0;
+    }
+
+    .comt_dest_wrap table tbody tr td:first-child {
+        width: 400px;
+        padding-right: 20px;
+        transition: .3s;
+    }
+    .comt_dest_wrap table tbody tr td a {
+    width: max-content;
+    font-size: 16px;
+    display: block;
+}
+
+    .comt_dest_wrap table tbody tr td {
+        padding-left: 35px;
+        padding: 20px 0 20px 20px;
+    }
+
+    .com_list_arrow {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        width: 98%;
+        top: -6px;
+        left: 50%;
+        z-index: 0;
+        max-width: 450px;
+        transform: translateX(-50%);
+    }
+
+    .com_list_arrow a {
+        font-size: 42px;
+    }
+
+    .competici_list_wrap {
+        padding: 0px 26px 0 12px;
+        position: relative;
+        z-index: 9;
+        overflow: auto;
+        overflow-y: hidden;
+        height: 27px;
+    }
+    .competici_list_wrap::-webkit-scrollbar {
+ display: none
+}
+    .comt_destacadas {
+        background-position-x: 73%;
+    }
+
+    .calend_btm a {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .monthly-day-event>.monthly-day-number {
+        right: 10px;
+        top: 5px;
+    }
+
+    .jugador_top_form.calen_top_form {
+        position: absolute;
+        width: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        max-width: 777px;
+        z-index: 9;
+        padding: 0 0px 30px;
+        /* box-shadow: 4px 13px 10px #0000001f; */
+        justify-content: space-evenly;
+        top: 50px;
+    }
+
+    .jugador_top_form.com_pos.calen_top_form a.porque_link {
+        width: 40%;
+        margin: unset;
+    }
+
+    .calen_top_wrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        max-width: 430px;
+        margin: auto;
+        height: 320px;
+    }
+
+    .calen_top_blk {
+        width: 45%;
+    }
+
+    .com_pos {
+        box-shadow: 2px 7px 20px 0px #0000000a;
+        z-index: 999 !important;
+    }
+
+    .jugador_top_form a {
+        margin-left: auto;
+        padding-right: 19px;
+    }
+    .porque_link svg {
+    right: -10px;
+}
+    .cld_form a {
+        margin-top: 30px;
+    }
+
+    .copm_ti {
+        font-size: 38px !important;
+    }
+
+    /*================================
+            competiciones   page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             contact   Page Css Start 
+=================================== */
+    .contact_info_right {
+        margin: 0;
+    }
+
+    ul.contact_info_ul2 {
+        margin-top: 0;
+    }
+
+    .responsive-map-container {
+        height: 400px;
+    }
+
+    .contact_form_blk textarea {
+        height: 120px;
+    }
+
+    /*================================
+             contact  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+              Delegaciones  Page Css Start 
+=================================== */
+    .Delegaciones_top_blk h1 a {
+        font-size: 35px;
+        margin-top: 59px;
+    }
+
+    .Delegaciones_top_blk {
+        height: 250px;
+    }
+
+    .Delegaciones .col-lg-4.col-md-4 {
+        margin-bottom: 20px;
+    }
+
+    .Delegaciones_btm_blk {
+        text-align: center;
+    }
+
+    .Delegaciones_mid_blk {
+        padding-left: 0;
+        margin-bottom: 20px;
+    }
+
+    .Deles_mid_blk {
+        margin-bottom: 0px;
+    }
+
+    ul.Delega_nav {
+        top: 145px;
+    }
+    .sober__nav ul.Delega_nav{
+    top: 145px;
+}
+    /*================================
+             Delegaciones  page Css End ==========================================
+=================================== */
+
+
+
+
+    /*================================
+              Clubs  Page Css Start 
+=================================== */
+    .n_tiva_left.clubs_link {
+        overflow: auto;
+    }
+
+    .busca_clubs ul li a {
+        margin-bottom: 20px;
+    }
+
+    .busca_clubs ul li:last-child a:after {
+        display: none;
+    }
+
+    .busca_clubs ul li:last-child a {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .clubs_input .calen_top_blk i {
+        bottom: 20px;
+    }
+
+    .clubs_input .calen_top_blk {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .rnk_jugador_top.calen_top .porque_link {
+        padding-top: 0;
+        margin-top: 0;
+    }
+
+    .clubs_list .n_tiva_left p span {
+        margin-bottom: 0;
+    }
+
+    .clubs_list .ntiva_right {
+        justify-content: flex-end;
+    }
+
+    .clubs_link b {
+        margin-right: 45px;
+    }
+
+    .clubs_input .calen_top_blk .nice-select {
+        margin-bottom: 20px;
+    }
+
+    .n_tiva_left.clubs_link::-webkit-scrollbar {
+        display: none;
+    }
+
+    .ficha_img {
+        margin-bottom: 20px;
+    }
+
+    /*================================
+             Clubs  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+             Sobre   Page Css Start 
+=================================== */
+.sobre_box {
+    height: auto;
+    padding: 40px 30px;
+    margin-bottom: 50px;
+    margin: 20px;
+}
+
+.sobre_box_cont {
+    flex-wrap: wrap;
+}
+.estamos{
+    margin-top: 120px;
+}
+ul.sbr_ul2 {
+    margin-top: 20px;
+}
+.rnk_last_left a.porque_link.fff {width: 110px;}
+.sobre_box_cont ul li a p{
+    font-size: 16px;
+}
+.sobre_box_cont ul li a {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.estamos_wrap2 hr {
+    margin: 30px 0;
+}
+
+.estamos_wrap h2 {
+    font-size: 33px;
+    margin-bottom: 25px;
+}
+
+.estamos_wrap h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.estamos_blk p {
+    font-size: 18px;
+}
+
+.estamos_blk strong {
+    font-size: 18px;
+}
+
+.estamos_blk h5 {
+    font-size: 18px;
+}
+
+.estamos_blk {
+    margin-bottom: 20px;
+}
+
+.sbr_btm h2 {
+    margin-bottom: 15px;
+}
+
+.sbr_btm p {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+    /*================================
+             Sobre  page Css End ==========================================
+=================================== */
+
+
+
+    /*================================
+                Footer Css Start 
+=================================== */
+    footer {
+        padding-bottom: 40px !important;
+    }
+
+    .footer_mid {
+        flex-wrap: wrap;
+        margin-bottom: 0;
+    }
+
+    .footer_mid ul {
+        width: 150px;
+        margin-bottom: 30px;
+    }
+
+    .ft_last_cont {
+        margin-right: 30px;
+    }
+
+    .ft_last_cont {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .f_top_info {
+        margin-bottom: 20px;
+        width: max-content;
+    }
+
+    .f-logo {
+        margin-bottom: 30px;
+    }
+
+    .ft_last_cont h5 {
+        width: 120px;
+    }
+
+    .f-logo a img {
+        width: 130px;
+    }
+
+    .estamos_wrap {
+    }
+    /*================================
+               Footer Css End ==========================================
+=================================== */
+
+
+
+}
+
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .container {
+        max-width: 420px;
+    }
+
+    .header-area .container {
+        max-width: unset;
+    }
+
+    .hero_home .container {
+        min-width: 480px;
+        max-width: 767px;
+        margin: auto;
+    }
+    .te_fo_blk h2, .te_fo_blk b, .te_fo_blk p, .te_fo_blk a {
+        width: 400px !important;
+        text-align: left;
+        margin: auto;
+    }
+    
+    .te_fo_blk b {
+        transform: translateX(-43px);
+        margin: 16px auto;
+    }
+    
+    .te_fo_blk p {transform: translateX(-20px);margin-bottom: 15px;}
+    
+    .te_fo_blk a {transform: translateX(-125px);}
+
+    .home_slider .owl-dots {
+        right: 40%;
+        top: 700px;
+    }
+
+    .copm_ti {
+        font-size: 45px !important;
+    }
+
+    .arw_blk.mt_100 a {
+        max-width: max-content;
+    }
+    ul.sbr_ul2 {
+        margin-top: 0px;
+    }
+    .te_fo_blk {
+        /* padding-left: 12%; */
+    }
+
+    .Busq_blk {
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        width: 370px;
+        margin-bottom: 50px;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+
+    .Busq_flut {
+        flex-direction: row-reverse;
+    }
+
+    .Busq_blk img {
+        width: 90px;
+        max-width: max-content;
+        height: 90px;
+    }
+
+    .left_bdr_af:after {
+        left: 0;
+        width: 100%;
+        height: 1px;
+        top: -25%;
+    }
+
+    .Busq_blk h3 {
+        width: 175px;
+        font-size: 35px;
+    }
+
+    .Busq_blk a {
+        font-size: 16px;
+        max-width: 86px;
+    }
+
+    section.Busq {
+        padding-bottom: 30px;
+        margin-bottom: 10px;
+    }
+
+    .branding_wrap.pb_50 img {
+        margin: 0 15px 30px;
+    }
+
+    .f_top_info_lst {
+        margin-left: 50px;
+    }
+
+    .footer_ul {
+        display: block;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .ft_last_contbdr {
+        margin-bottom: 20px;
+    }
+
+    .aqui_input {
+        max-width: 500px;
+        margin: auto;
+    }
+
+    .pim_nav ul li:first-child a:after {
+        display: none;
+    }
+
+    .pim_nav ul li:nth-child(3) a:after {
+        display: none;
+    }
+
+    .pim_nav ul li:nth-child(5) a:after {
+        display: none;
+    }
+
+    .ntiva_right {
+        margin-top: 5px;
+    }
+
+    .calen_top_blk {
+        width: 43%;
+    }
+
+    .calend_btm a {
+        width: max-content;
+        font-size: 17px;
+    }
+
+    .monthly-day-event {
+        padding-top: 1em;
+    }
+
+    .clubs_input .calen_top_blk {
+        width: 180px;
+    }
+
+    .rnk_jugador_top.calen_top .porque_link {
+        margin-top: -20px;
+    }
+
+
+
+
+}
+
+@media (min-width: 480px) and (max-width: 575px) {
+    .f_top_info_lst {
+        position: absolute;
+        top: 15%;
+        right: 3%;
+    }
+}
+
+@media (max-width: 428px) {
+    section.Delegaciones.mb_100.mt_100.pt_50.pb_100 {
+        padding-top: 123px;
+    }
+
+    ul.Delega_nav {
+        top: 260px;
+    }
+}
